@@ -20,7 +20,7 @@ int main(int argc, char * argv[]) {
 	unsigned long *result_B;
 	unsigned int n;
 	int scanf_check;
-
+ 
 	printf("Inserisci un numero n>=0 per la serie di Fibonacci: ");
 	scanf("%u", &n);
 
